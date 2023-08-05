@@ -1,2 +1,2 @@
 # InterSavy
-Level 2 Project : Weather App Using html,css & Js
+In this, I've made a Portfolio Website Using html,css & Js
