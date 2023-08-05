@@ -1,2 +1,2 @@
 # InterSavy
-InternSavy Internship Projects for web development.
+Level 2 Project : Weather App Using html,css & Js
